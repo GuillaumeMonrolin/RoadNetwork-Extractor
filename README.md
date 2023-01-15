@@ -1,5 +1,7 @@
 # RoadNetwork Exctractor
 
+This software is a road network generator for wood laser engraving.
+
 # How to use software with Bash/Batch files helper 
 ## Install
 ### Windows
