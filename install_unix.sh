@@ -1,0 +1,1 @@
+pip install --upgrade pip && python3 -m pip install virtualenv && python -m venv venv && source ./venv/bin/activate && pip install --upgrade pip && python -m pip install -r requirements.txt
